@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @baljeetsingh
-- 👀 I’m interested in Learn, Explore and Share
-- 🌱 I’m currently working on Sunbird & SunbirdSaas.com .
-- 📫 How to reach me - simply contact me over email, call, linkedin, github or meet me.
-
 👨‍💻X-Microsoft | 👨‍🏫Mentor | 😎Think Tank| 💻Tech Passionate | 💼 System Lover | 😇 Optimist
 
 Baljeetsingh is a highly respected and valued individual, known for his energetic and enthusiastic personality. 
